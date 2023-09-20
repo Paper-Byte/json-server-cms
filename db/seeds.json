@@ -2,24 +2,71 @@
   "catalogue": [
     {
       "id": 1,
-      "name": "Atari T-Shirt",
+      "item": "Atari T-Shirt",
+      "category": "clothing",
       "type": "tshirt",
       "image": "https://m.media-amazon.com/images/I/51aytaGmSlL._AC_UY1000_.jpg",
       "description": "Simple tee design faturing the logo of a legendary developer",
-      "size-options": ["XS", "S", "M", "L", "XL"],
-      "color-options": ["red", "blue", "pink", "black", "grey", "white"],
+      "sizes": [
+        { "size": "xs", "isAvailable": true },
+        { "size": "s", "isAvailable": true },
+        { "size": "m", "isAvailable": true },
+        { "size": "l", "isAvailable": true },
+        { "size": "xl", "isAvailable": true }
+      ],
+      "colors": [
+        { "colorName": "black", "isAvailable": true },
+        { "colorName": "white", "isAvailable": true },
+        { "colorName": "firebrick", "isAvailable": true },
+        { "colorName": "navy", "isAvailable": true },
+        { "colorName": "aquamarine", "isAvailable": true },
+        { "colorName": "coral", "isAvailable": true }
+      ],
       "price": 19.99,
       "availability": false
     },
     {
       "id": 2,
-      "name": "Tsunami Sweatshirt",
+      "item": "Tsunami Sweatshirt",
+      "category": "clothing",
       "type": "sweatshirt",
       "image": "https://m.media-amazon.com/images/I/71xE5xLMUdL._AC_UL640_FMwebp_QL65_.jpg",
       "description": "Stylish, simple, and modern take on a classic japanese art style printed on a cozy sweatshirt",
-      "size-options": ["XS", "S", "M", "L", "XL"],
-      "color-options": ["red", "blue", "pink", "black", "grey", "white"],
+      "sizes": [
+        { "size": "xs", "isAvailable": true },
+        { "size": "s", "isAvailable": true },
+        { "size": "m", "isAvailable": true },
+        { "size": "l", "isAvailable": true },
+        { "size": "xl", "isAvailable": true }
+      ],
+      "colors": [
+        { "colorName": "black", "isAvailable": true },
+        { "colorName": "white", "isAvailable": true },
+        { "colorName": "firebrick", "isAvailable": true },
+        { "colorName": "navy", "isAvailable": true },
+        { "colorName": "aquamarine", "isAvailable": true },
+        { "colorName": "coral", "isAvailable": true }
+      ],
       "price": 39.99,
+      "availability": false
+    },
+    {
+      "id": 3,
+      "item": "Super Plumber Mug",
+      "category": "novelty",
+      "type": "mug",
+      "image": "https://m.media-amazon.com/images/I/815klkhFvaL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Definitely not copywrited",
+      "sizes": null,
+      "colors": [
+        { "colorName": "black", "isAvailable": true },
+        { "colorName": "white", "isAvailable": true },
+        { "colorName": "firebrick", "isAvailable": true },
+        { "colorName": "navy", "isAvailable": true },
+        { "colorName": "aquamarine", "isAvailable": true },
+        { "colorName": "coral", "isAvailable": true }
+      ],
+      "price": 29.99,
       "availability": false
     }
   ]
