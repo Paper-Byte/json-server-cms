@@ -69,5 +69,16 @@
       "price": 29.99,
       "availability": false
     }
-  ]
+  ],
+  "users": {
+    "id": 1,
+    "legalName": "Noah Hughes",
+    "userName": "@Paper_Byte",
+    "shopName": "Flatiron X React",
+    "profileImage": "https://i.ibb.co/b2qxgyH/16-B53-F54-39-D4-4-F22-B3-D1-E7-C096-B8-CD61.jpg",
+    "userBiography": "Hey, this site is mine!",
+    "shopFavorites": 2897,
+    "userSales": 3712,
+    "userIncome": 66580.28
+  }
 }
