@@ -8,19 +8,52 @@
       "image": "https://m.media-amazon.com/images/I/51aytaGmSlL._AC_UY1000_.jpg",
       "description": "Simple tee design faturing the logo of a legendary developer",
       "sizes": [
-        { "size": "xs", "isAvailable": true },
-        { "size": "s", "isAvailable": true },
-        { "size": "m", "isAvailable": true },
-        { "size": "l", "isAvailable": true },
-        { "size": "xl", "isAvailable": true }
+        {
+          "size": "xs",
+          "isAvailable": true
+        },
+        {
+          "size": "s",
+          "isAvailable": true
+        },
+        {
+          "size": "m",
+          "isAvailable": true
+        },
+        {
+          "size": "l",
+          "isAvailable": true
+        },
+        {
+          "size": "xl",
+          "isAvailable": true
+        }
       ],
       "colors": [
-        { "colorName": "black", "isAvailable": true },
-        { "colorName": "white", "isAvailable": true },
-        { "colorName": "firebrick", "isAvailable": true },
-        { "colorName": "navy", "isAvailable": true },
-        { "colorName": "aquamarine", "isAvailable": true },
-        { "colorName": "coral", "isAvailable": true }
+        {
+          "colorName": "black",
+          "isAvailable": true
+        },
+        {
+          "colorName": "white",
+          "isAvailable": true
+        },
+        {
+          "colorName": "firebrick",
+          "isAvailable": true
+        },
+        {
+          "colorName": "navy",
+          "isAvailable": true
+        },
+        {
+          "colorName": "aquamarine",
+          "isAvailable": true
+        },
+        {
+          "colorName": "coral",
+          "isAvailable": true
+        }
       ],
       "price": 19.99,
       "availability": false
@@ -33,19 +66,52 @@
       "image": "https://m.media-amazon.com/images/I/A1EHx4FHFjL._CLa%7C2140%2C2000%7CA18H0rPmp%2BL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UX342_.png",
       "description": "Greatest Halloween adjacent sweatshirt ever created. Fact.",
       "sizes": [
-        { "size": "xs", "isAvailable": true },
-        { "size": "s", "isAvailable": true },
-        { "size": "m", "isAvailable": true },
-        { "size": "l", "isAvailable": true },
-        { "size": "xl", "isAvailable": true }
+        {
+          "size": "xs",
+          "isAvailable": false
+        },
+        {
+          "size": "s",
+          "isAvailable": true
+        },
+        {
+          "size": "m",
+          "isAvailable": true
+        },
+        {
+          "size": "l",
+          "isAvailable": true
+        },
+        {
+          "size": "xl",
+          "isAvailable": false
+        }
       ],
       "colors": [
-        { "colorName": "black", "isAvailable": true },
-        { "colorName": "white", "isAvailable": true },
-        { "colorName": "firebrick", "isAvailable": true },
-        { "colorName": "navy", "isAvailable": true },
-        { "colorName": "aquamarine", "isAvailable": true },
-        { "colorName": "coral", "isAvailable": true }
+        {
+          "colorName": "black",
+          "isAvailable": true
+        },
+        {
+          "colorName": "white",
+          "isAvailable": true
+        },
+        {
+          "colorName": "firebrick",
+          "isAvailable": false
+        },
+        {
+          "colorName": "navy",
+          "isAvailable": false
+        },
+        {
+          "colorName": "aquamarine",
+          "isAvailable": false
+        },
+        {
+          "colorName": "coral",
+          "isAvailable": false
+        }
       ],
       "price": 29.99,
       "availability": false
@@ -58,19 +124,52 @@
       "image": "https://m.media-amazon.com/images/I/71xE5xLMUdL._AC_UL640_FMwebp_QL65_.jpg",
       "description": "Stylish, simple, and modern take on a classic japanese art style printed on a cozy sweatshirt",
       "sizes": [
-        { "size": "xs", "isAvailable": true },
-        { "size": "s", "isAvailable": true },
-        { "size": "m", "isAvailable": true },
-        { "size": "l", "isAvailable": true },
-        { "size": "xl", "isAvailable": true }
+        {
+          "size": "xs",
+          "isAvailable": true
+        },
+        {
+          "size": "s",
+          "isAvailable": true
+        },
+        {
+          "size": "m",
+          "isAvailable": true
+        },
+        {
+          "size": "l",
+          "isAvailable": true
+        },
+        {
+          "size": "xl",
+          "isAvailable": true
+        }
       ],
       "colors": [
-        { "colorName": "black", "isAvailable": true },
-        { "colorName": "white", "isAvailable": true },
-        { "colorName": "firebrick", "isAvailable": true },
-        { "colorName": "navy", "isAvailable": true },
-        { "colorName": "aquamarine", "isAvailable": true },
-        { "colorName": "coral", "isAvailable": true }
+        {
+          "colorName": "black",
+          "isAvailable": true
+        },
+        {
+          "colorName": "white",
+          "isAvailable": true
+        },
+        {
+          "colorName": "firebrick",
+          "isAvailable": true
+        },
+        {
+          "colorName": "navy",
+          "isAvailable": true
+        },
+        {
+          "colorName": "aquamarine",
+          "isAvailable": true
+        },
+        {
+          "colorName": "coral",
+          "isAvailable": true
+        }
       ],
       "price": 39.99,
       "availability": false
@@ -84,12 +183,30 @@
       "description": "Definitely not copywrited",
       "sizes": null,
       "colors": [
-        { "colorName": "black", "isAvailable": true },
-        { "colorName": "white", "isAvailable": true },
-        { "colorName": "firebrick", "isAvailable": true },
-        { "colorName": "navy", "isAvailable": true },
-        { "colorName": "aquamarine", "isAvailable": true },
-        { "colorName": "coral", "isAvailable": true }
+        {
+          "colorName": "black",
+          "isAvailable": true
+        },
+        {
+          "colorName": "white",
+          "isAvailable": true
+        },
+        {
+          "colorName": "firebrick",
+          "isAvailable": true
+        },
+        {
+          "colorName": "navy",
+          "isAvailable": true
+        },
+        {
+          "colorName": "aquamarine",
+          "isAvailable": true
+        },
+        {
+          "colorName": "coral",
+          "isAvailable": true
+        }
       ],
       "price": 29.99,
       "availability": false
@@ -102,19 +219,52 @@
       "image": "https://m.media-amazon.com/images/I/71dSZC7SRbL._AC_UX522_.jpg",
       "description": "I mean, I guess if you don't like a refreshing breeze",
       "sizes": [
-        { "size": "xs", "isAvailable": true },
-        { "size": "s", "isAvailable": true },
-        { "size": "m", "isAvailable": true },
-        { "size": "l", "isAvailable": true },
-        { "size": "xl", "isAvailable": true }
+        {
+          "size": "xs",
+          "isAvailable": true
+        },
+        {
+          "size": "s",
+          "isAvailable": true
+        },
+        {
+          "size": "m",
+          "isAvailable": true
+        },
+        {
+          "size": "l",
+          "isAvailable": true
+        },
+        {
+          "size": "xl",
+          "isAvailable": true
+        }
       ],
       "colors": [
-        { "colorName": "black", "isAvailable": true },
-        { "colorName": "white", "isAvailable": true },
-        { "colorName": "firebrick", "isAvailable": true },
-        { "colorName": "navy", "isAvailable": true },
-        { "colorName": "aquamarine", "isAvailable": true },
-        { "colorName": "coral", "isAvailable": true }
+        {
+          "colorName": "black",
+          "isAvailable": true
+        },
+        {
+          "colorName": "white",
+          "isAvailable": true
+        },
+        {
+          "colorName": "firebrick",
+          "isAvailable": true
+        },
+        {
+          "colorName": "navy",
+          "isAvailable": true
+        },
+        {
+          "colorName": "aquamarine",
+          "isAvailable": true
+        },
+        {
+          "colorName": "coral",
+          "isAvailable": true
+        }
       ],
       "price": 39.99,
       "availability": false
@@ -128,33 +278,32 @@
       "description": "Anyone want to buy myself one?",
       "sizes": null,
       "colors": [
-        { "colorName": "black", "isAvailable": false },
-        { "colorName": "white", "isAvailable": false },
-        { "colorName": "firebrick", "isAvailable": false },
-        { "colorName": "navy", "isAvailable": false },
-        { "colorName": "aquamarine", "isAvailable": false },
-        { "colorName": "coral", "isAvailable": false }
+        {
+          "colorName": "black",
+          "isAvailable": false
+        },
+        {
+          "colorName": "white",
+          "isAvailable": false
+        },
+        {
+          "colorName": "firebrick",
+          "isAvailable": false
+        },
+        {
+          "colorName": "navy",
+          "isAvailable": false
+        },
+        {
+          "colorName": "aquamarine",
+          "isAvailable": false
+        },
+        {
+          "colorName": "coral",
+          "isAvailable": false
+        }
       ],
       "price": 39.99,
-      "availability": false
-    },
-    {
-      "id": 7,
-      "item": "Fullstack Phone Case",
-      "category": "novelty",
-      "type": "phone-case",
-      "image": "https://m.media-amazon.com/images/I/61a7BPX3z2L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
-      "description": "Hopefully one day!",
-      "sizes": null,
-      "colors": [
-        { "colorName": "black", "isAvailable": true },
-        { "colorName": "white", "isAvailable": true },
-        { "colorName": "firebrick", "isAvailable": true },
-        { "colorName": "navy", "isAvailable": true },
-        { "colorName": "aquamarine", "isAvailable": true },
-        { "colorName": "coral", "isAvailable": true }
-      ],
-      "price": 29.99,
       "availability": false
     }
   ],
